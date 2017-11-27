@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1506951662 source:d:\2nd year\computer prog\lab exercise\electrical resistance of a wire\main.cpp
+	<iostream>
+	<math.h>
+
